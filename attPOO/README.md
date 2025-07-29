@@ -29,11 +29,3 @@ O sistema permite as seguintes operações:
 2. Abra o projeto em um ambiente de desenvolvimento Java.
 3. Compile o projeto.
 4. Execute a classe `Main` para iniciar o sistema.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
-
-Este projeto é licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
